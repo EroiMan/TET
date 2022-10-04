@@ -5,35 +5,35 @@
       "genero": "Ação",
       "ano_lanc": 2012,
       "num_eps": 1100,
-      "produtora_id": 1
+      "id": 1
     },
    {
      "nome_anime": "Naruto", 
      "genero": "Aventura",
       "ano_lanc": 2012,
       "num_eps": 720,
-      "produtora_id": 1
+      "id": 1
     },
     {
       "nome_anime": "Nagatoro",
       "genero": "Romance",
       "ano_lanc": 2012,
       "num_eps": 12,
-     "produtora_id": 1
+     "id": 1
     },
     {
       "nome_anime": "Takagi",
       "genero": "Escolar",
       "ano_lanc": 2012,
       "num_eps": 32,
-      "produtora_id": 2
+      "id": 2
     },
     {
       "nome_anime": "Jujutsu",
       "genero": "Luta",
       "ano_lanc": 2012,
       "num_eps": 24,
-      "produtora_id": 2
+      "id": 2
     }
   ],
   "Produtora": [
