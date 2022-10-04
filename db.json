@@ -3,29 +3,29 @@
     {
       "nome_anime": "One Piece",
       "genero": "Ação",
-      "ano_lanc": 2012,
-      "num_eps": 1100,
+      "ano_lanc":  "Ano de Lançamento: 2012" ,
+      "num_eps": "Num eps: 1100",
       "idProd": 1
     },
    {
      "nome_anime": "Naruto", 
      "genero": "Aventura",
-      "ano_lanc": 2012,
-      "num_eps": 720,
+      "ano_lanc":  "Ano de Lançamento: 2012",
+      "num_eps": "Num eps: 720",
       "idProd": 1
     },
     {
       "nome_anime": "Nagatoro",
       "genero": "Romance",
-      "ano_lanc": 2012,
-      "num_eps": 12,
+      "ano_lanc": "Ano de Lançamento: 2012",
+      "num_eps":"Num eps: 12",
      "idProd": 1
     },
     {
       "nome_anime": "Takagi",
       "genero": "Escolar",
-      "ano_lanc": 2012,
-      "num_eps": 32,
+      "ano_lanc":  "Ano de Lançamento: 2012",
+      "num_eps":"Num eps: 32",
       "idProd": 2
     },
     {
